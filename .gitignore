@@ -1,0 +1,44 @@
+# Sensitive device captures
+backup/
+shots/
+work/
+logs/
+*.log
+*.pcap
+*.pcapng
+
+# Credentials and signing material
+adbkey
+adbkey.pub
+*.pem
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.key
+*.token
+.env
+.env.*
+
+# Binaries and build products
+*.apk
+*.aab
+*.exe
+*.zip
+build/
+.gradle/
+local.properties
+
+# Upstream checkout and virtual environment
+.upstream/
+.venv/
+venv/
+
+# Editor and OS noise
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+__pycache__/
+*.pyc

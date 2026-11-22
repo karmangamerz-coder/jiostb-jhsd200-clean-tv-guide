@@ -1,0 +1,51 @@
+{
+  "columns": 5,
+  "dock_apps": [
+    "com.jio.media.jiotvplus",
+    "com.jio.yt",
+    "com.netflix.ninja",
+    "in.startv.hotstar",
+    "com.jiotv.sonyliv"
+  ],
+  "hidden_apps": [
+    "com.google.android.youtube.tv",
+    "com.user.androidsettings",
+    "com.user.jiosettings"
+  ],
+  "app_keys": [
+    "scan:185:com.jio.yt",
+    "scan:187:com.netflix.ninja",
+    "scan:184:in.startv.hotstar"
+  ],
+  "fill_dock": true,
+  "rows_below_dock": 0,
+  "single_row": false,
+  "background_color": "#000000",
+  "wallpaper": false,
+  "sky_intensity": 0,
+  "dock_row": true,
+  "dock_glass": true,
+  "dock_band": true,
+  "dock_opacity": 40,
+  "dock_even_padding": true,
+  "dock_title": true,
+  "glass_style": "glass",
+  "ambient_glow": true,
+  "app_glow": false,
+  "cinematic_home": false,
+  "header_white": true,
+  "show_greeting": true,
+  "show_inputs_pill": true,
+  "show_network_pill": true,
+  "icon_only_buttons": false,
+  "icon_only_inputs": false,
+  "wifi_label_width": 220,
+  "animations": true,
+  "advanced_effects": false,
+  "focus_overshoot": true,
+  "fade_rows": false,
+  "uniform_tiles": true,
+  "tile_menu": true,
+  "app_library": false,
+  "live_tv_package": "com.jio.stb.catv"
+}

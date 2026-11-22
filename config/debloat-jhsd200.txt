@@ -1,0 +1,15 @@
+# Jio STB JHSD200 V2, JioOS 5.7.1 / Android 9 (SDK 28)
+# Tested 2026-11-22. Disable for user 0 only through CleanYourTV tools/disable.ps1.
+#
+# Intentionally kept: Live TV/input services, JioTV+, Jio YouTube, Netflix, Hotstar,
+# SonyLIV, ZEE5, JioSaavn/JioBeats, voice assistant, Bluetooth remote, keyboard,
+# casting/DIAL, Miracast, JioStore, settings, authentication, and every updater.
+#
+# Always inspect dumpsys package on your own firmware before applying this list.
+
+com.jio.stbadservice
+com.jio.adc.embedded
+com.jio.bioscopecontentservice
+com.rjil.jiostblogservice
+com.jio.stbremotecare.ril
+com.jio.appoptimizer
